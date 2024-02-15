@@ -1,4 +1,4 @@
-# Project--HR_Data_Analysis
+# Project: HR Data Analysis
 
 
 ## Preview (Screenshots):
