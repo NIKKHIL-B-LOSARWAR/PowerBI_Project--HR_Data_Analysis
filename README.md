@@ -14,12 +14,12 @@ Salary and Payouts Slide-
 <br />
 
 Employees' Performance Slide-
-<img width="671" alt="Employees' Performance Slide...img" src="https://github.com/NIKKHIL-B-LOSARWAR/PowerBI_Project--HR_Data_Analysis/assets/156224014/34dc1d71-f3c0-46f9-85ae-8e839f2bd096">
+<img width="910" alt="Employees' Performance Slide...img" src="https://github.com/NIKKHIL-B-LOSARWAR/PowerBI_Project--HR_Data_Analysis/assets/156224014/34dc1d71-f3c0-46f9-85ae-8e839f2bd096">
 <br />
 <br />
 
 Feedback Rating Slide-
-<img width="605" alt="Feedback Rating Slide...img" src="https://github.com/NIKKHIL-B-LOSARWAR/PowerBI_Project--HR_Data_Analysis/assets/156224014/ba6d2253-a482-478d-a37d-cccfbd7269cf">
+<img width="910" alt="Feedback Rating Slide...img" src="https://github.com/NIKKHIL-B-LOSARWAR/PowerBI_Project--HR_Data_Analysis/assets/156224014/ba6d2253-a482-478d-a37d-cccfbd7269cf">
 
 ## Project Theme:
 
